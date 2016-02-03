@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Crunch Time</string>
+    <string name="input_prompt">Reps/Mins</string>
+    <string name="submit_button">Convert to calories</string>
+    <string name="initial_text">Please select an exercise and enter the number of reps/mins</string>
+    <string-array name="exercise_array">
+        <item>Pushups</item>
+        <item>Situps</item>
+        <item>Squats</item>
+        <item>Leg-Lifts</item>
+        <item>Planking</item>
+        <item>Jumping Jacks</item>
+        <item>Pullups</item>
+        <item>Cycling</item>
+        <item>Walking</item>
+        <item>Jogging</item>
+        <item>Swimming</item>
+        <item>Stair-Climbing</item>
+    </string-array>
+</resources>
