@@ -1,9 +1,9 @@
 # PROG 01: Crunch Time
 
-This app allows you to enter a number of reptitions/minutes of a given 
+This app allows you to enter a number of repetitions/minutes of a given 
 exercise from a droplist and then converts that to the number of
 calories burned. It will also display the equivalent number of
-repitions/minutes of other exercises from the same dropdown list
+repetitions/minutes of other exercises from the same dropdownlist
 required to burn the same amount of calories.
 
 ## Authors
