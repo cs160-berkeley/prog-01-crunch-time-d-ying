@@ -12,7 +12,7 @@ Dake Ying ([dakeying@berkeley.edu](mailto:dakeying@berkeley.edu))
 
 ## Demo Video
 
-See [Crunch Time Demo] (https://www.youtube.com/watch?v=PbnjPnlK3es)
+See [Crunch Time Demo] (https://www.youtube.com/watch?v=_vFM6FdNdmg)
 
 ## Screenshots
 
